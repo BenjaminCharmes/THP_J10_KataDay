@@ -1,0 +1,1 @@
+# THP_J10_KataDay
